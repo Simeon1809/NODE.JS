@@ -1,0 +1,43 @@
+$(dateTime)	c1aff9a7-b6aa-4760-b106-3ab79358f0af	GET	undefined	/
+$(dateTime)	54bf726a-910d-4dd1-b6b3-dfcc7d1f7376	GET	undefined	/favicon.ico
+$(dateTime)	56914914-2f84-48fd-abab-a347d667c8d4	POST	undefined	/register
+$(dateTime)	cbc977e3-b927-4a59-9cc8-c01f461e880b	POST	undefined	/register
+$(dateTime)	36bbb3c4-e25f-4d8a-b7c7-bb83e772c402	POST	undefined	/register
+$(dateTime)	a66e9ada-3a92-4590-b663-7cd096018c46	POST	undefined	/register
+$(dateTime)	0f733fdb-de81-4886-bddc-e46a9148c9bb	POST	undefined	/register
+$(dateTime)	0356cdef-49a0-4c7f-aaea-2716988e02bf	GET	undefined	/register
+$(dateTime)	0006c5ce-d8c9-4006-94ee-176d71a11406	GET	undefined	/employees
+$(dateTime)	4552274b-8099-47ce-acef-556aa8be6980	GET	undefined	/
+$(dateTime)	a547c12f-a5f4-44cb-bb33-d90d5bd8f6d9	GET	undefined	/employees
+$(dateTime)	a40005e0-5e89-476e-b55d-9115a6685467	POST	undefined	/auth
+$(dateTime)	19bdc2f4-bf0f-4985-b5a5-338562863f41	POST	undefined	/register
+$(dateTime)	04129fa0-4568-46b0-9dc8-2f7c17898d04	POST	undefined	/auth
+$(dateTime)	25a38dd2-bdbb-4922-ac74-5268a088ad28	POST	undefined	/register
+$(dateTime)	9f3d166a-b54c-40ec-ae1f-e9974c9a95dd	POST	undefined	/register
+$(dateTime)	82c56b17-aa4e-43af-8ae0-2e030d1ce555	POST	undefined	/register
+$(dateTime)	f1f02234-75af-426b-bdef-95968d251ca4	POST	undefined	/register
+$(dateTime)	f636ae30-2393-4054-be6e-55f5585c3063	POST	undefined	/auth
+$(dateTime)	bf25f3b0-e867-4cf2-9db2-3d50afc25785	POST	undefined	/register
+$(dateTime)	b0575488-fcb5-44ca-9a91-529466ca3324	POST	undefined	/register
+$(dateTime)	66a87242-f432-4787-b33b-00d3ade49be6	POST	undefined	/auth
+$(dateTime)	6e937ef3-6592-4345-967b-346fb542d3a1	POST	undefined	/auth
+$(dateTime)	066fe737-879c-465d-b365-d572412624e6	POST	undefined	/auth
+$(dateTime)	58d8a747-62bd-40a0-b276-f6c986f78738	POST	undefined	/auth
+$(dateTime)	41fbb894-a7fc-4d30-8f55-04d412ae170e	POST	undefined	/register
+$(dateTime)	f43a9790-ff9e-41cd-ac38-8d889cd3228f	POST	undefined	/auth
+$(dateTime)	75ffb35f-44bc-409f-9b41-79fd005b0042	POST	undefined	/register
+$(dateTime)	9e2a5517-22f4-4b65-aa26-18f1519839f7	POST	undefined	/auth
+$(dateTime)	9f712c6b-be58-466c-a86c-4d73b35fbe69	POST	undefined	/auth
+$(dateTime)	574c64f3-8214-4d16-a05a-a8a3f6112209	POST	undefined	/auth
+$(dateTime)	1e219ce6-a554-4bfe-870f-149c6fcfba60	POST	undefined	/auth
+$(dateTime)	4b5e455a-58e8-4a8e-9cc7-e910918c4ca3	GET	undefined	/employees
+$(dateTime)	fa8ec55a-fb8f-487e-b227-6384364838b6	POST	undefined	/register
+$(dateTime)	0a75d75f-1238-4aee-94fb-724b40cf5370	POST	undefined	/auth
+$(dateTime)	68f8cb6e-8471-4de2-950a-6abd56fa547c	GET	undefined	/register
+$(dateTime)	cd6386cd-ee34-455f-a78a-7ed9f270bc2d	POST	undefined	/auth
+$(dateTime)	fc85da76-311b-4bc6-a49f-2d88a76f4edf	GET	undefined	/register
+$(dateTime)	6ba36526-f992-4515-b1f5-14c91248d953	POST	undefined	/auth
+$(dateTime)	c77dac59-a470-4383-ad81-4bf4a5e5d974	POST	undefined	/auth
+20230102	22:24:21	f16bb39e-3e48-4b5b-8555-4bfe2f7636dd	GET	undefined	/register
+20230102	22:27:25	6336ee75-847a-4eb0-bbad-196655a85d8d	POST	undefined	/register
+20230102	22:27:53	4cea12f2-f191-4851-bf5e-07415942bdd6	POST	undefined	/register

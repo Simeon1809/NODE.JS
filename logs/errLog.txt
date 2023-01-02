@@ -1,0 +1,2 @@
+$(dateTime)	5f603ef6-5541-4c7e-b04b-e3b69df302c5	Error: ENOENT: no such file or directory, stat 'C:\Users\asimeon\Desktop\Node.Js\routes\views\index.html'
+$(dateTime)	8dadb0ca-e37b-4ca9-b055-172410074c7a	Error: ENOENT: no such file or directory, stat 'C:\Users\asimeon\Desktop\Node.Js\routes\views\index.html'
