@@ -4,4 +4,4 @@ const logOutController = require('../../controllers/logOutController');
 
 router.get('/', logOutController.handleLogOut)
 
-module.exports = router;
+module.exports = router; 
