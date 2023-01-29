@@ -90,7 +90,7 @@ const server = http.createServer((req , res) =>{
                 serverFile(path.join(__dirname,'views', '404.html'), 'text/html', res);
         }
     }
-})
+}) 
 
 server.listen(PORT, () => {
     `Server running on port ${PORT}`
