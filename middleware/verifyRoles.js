@@ -1,3 +1,4 @@
+// This module verifys if a role exist
 const verifyRoles = (...allowedRoles) =>{
     return(req, res, next) => {
         if(!req?.roles) return res.sendStatus(401);
