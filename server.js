@@ -53,7 +53,7 @@ app.all('/*', (req, res) =>{
     } else if(req.accepts('json')){
         res.json({error : '404 Not Found'});
     } else{
-        res.type('txt').send('404.html');
+        res.type('txt').send('404.html');  
     }
 })
 
